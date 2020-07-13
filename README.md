@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer working on .Net core, asp.net, Python and JavaScript. 
+I'm a Software Engineer working on .NET core, ASP.NET, Python and JavaScript. 
 I like to learn new things and improve my programming skills day by day.
 
 <!--
