@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Software Engineer working on .Net core, asp.net, Python and JavaScript. 
+I like to learn new things and improve my programming skills day by day.
+
 <!--
 **PramodM123/pramodm123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
